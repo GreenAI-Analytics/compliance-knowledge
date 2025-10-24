@@ -1,0 +1,17 @@
+name: Validate Knowledge
+on:
+  pull_request:
+    paths: ["knowledge/**.md"]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Frontmatter check
+        run: |
+          grep -R --with-filename -n "^---$" knowledge | wc -l
+      - name: Markdown link check
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: "yes"
+          check-modified-files-only: "yes"
