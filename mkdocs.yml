@@ -1,0 +1,50 @@
+site_name: Compliance Knowledge
+site_description: EU compliance documentation by country
+site_author: Md
+repo_url: https://github.com/yourusername/compliance-knowledge
+repo_name: GitHub
+edit_uri: edit/main/knowledge/
+
+docs_dir: knowledge
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: blue
+    accent: indigo
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Austria: AT/index.md
+  - Belgium: BE/index.md
+  - Bulgaria: BG/index.md
+  - Croatia: HR/index.md
+  - Cyprus: CY/index.md
+  - Czech Republic: CZ/index.md
+  - Denmark: DK/index.md
+  - Estonia: EE/index.md
+  - Finland: FI/index.md
+  - France: FR/index.md
+  - Germany: DE/index.md
+  - Greece: GR/index.md
+  - Hungary: HU/index.md
+  - Ireland: IE/index.md
+  - Italy: IT/index.md
+  - Latvia: LV/index.md
+  - Lithuania: LT/index.md
+  - Luxembourg: LU/index.md
+  - Malta: MT/index.md
+  - Netherlands: NL/index.md
+  - Poland: PL/index.md
+  - Portugal: PT/index.md
+  - Romania: RO/index.md
+  - Slovakia: SK/index.md
+  - Slovenia: SI/index.md
+  - Spain: ES/index.md
+  - Sweden: SE/index.md

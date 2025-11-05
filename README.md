@@ -1,103 +1,71 @@
 # compliance-knowledge
-> Short, plain-language explainers (≤300 words) by **country**.  
-> Rendered in-app; titles/teasers can be localized via the i18n repo.
+
+Short, plain-language explainers (≤300 words) by **country**.  
+Rendered in-app and on [Read the Docs](https://compliance-knowledge.readthedocs.io)
 
 ---
 
-## ✨ Writing rules
-- Keep it under **300 words**. Use **plain language** and bullets.
-- No legal advice or opinions; cite public sources if helpful.
-- One article per topic per country. Re-use general pieces across countries if applicable.
+## ✍️ Writing Guidelines
+
+- ≤300 words, plain language, use bullet points
+- No legal advice or opinions; cite public sources if helpful
+- One article per topic per country
 
 ---
 
-## 📚 Directory structure
-/knowledge/{country-cc}/{slug}.md
+## 📁 Structure
+		/knowledge/{country-cc}/{slug}.md
 
-### Frontmatter (required)
+Each file must include frontmatter:
+
 ```yaml
----
-title: "GDPR Basics for SMEs"
-country: "IE"             # ISO-2
-category: "GDPR"          # free text, used for grouping
-tags: ["gdpr","records"]  # optional
-last_updated: "2025-10-24"
-id: "article.ie.gdpr.basics"  # stable ID used by i18n for localized titles/teasers
----
-Body
-
-Plain Markdown.
-
-Optional section headings.
-
-Prefer links to official pages.
-
-🔤 Localization
-
-The article body is stored in the language the editor writes (usually English).
-
-Localized title and teaser can live in compliance-i18n/knowledge/{lang}.json:
-
-article.ie.gdpr.basics.title
-
-article.ie.gdpr.basics.teaser
-
-If a key is missing, app falls back to the Markdown title.
-✅ PR checklist
-
-Frontmatter present and valid.
-
-Keep under 300 words.
-
-If adding a new id, add i18n keys in the i18n repo (optional).
-
-Merge before 23:30 UTC to land in tomorrow’s 00:00 UTC build.
-
-
-### 🇮🇪 `knowledge/ie/gdpr_basics.md`
-```md
 ---
 title: "GDPR Basics for SMEs"
 country: "IE"
 category: "GDPR"
-tags: ["gdpr","records","dpo"]
+tags: ["gdpr","records"]
 last_updated: "2025-10-24"
 id: "article.ie.gdpr.basics"
 ---
 
-The General Data Protection Regulation (GDPR) sets rules for how you collect, use, and store personal data. As an SME, focus on:
+🌐 Localization
+Here’s a minimal and focused version of your README.md that keeps only the essential information contributors need:
 
-- Keep only the data you truly need and limit access.
-- Maintain a short Record of Processing Activities (ROPA).
-- Honor rights requests (access, erasure, rectification) within legal deadlines.
-- Use Data Processing Agreements (DPAs) with vendors.
-- Report certain data breaches to the DPC within 72 hours.
+✅ Minimal README.md
+# compliance-knowledge
 
-**Tip:** If core activities involve large-scale processing, you may need a Data Protection Officer (DPO). See the DPC guidance for criteria.
+Short, plain-language explainers (≤300 words) by **country**.  
+Rendered in-app and on [Read the Docs](https://compliance-knowledge.readthedocs.io)
 
-⚙️ .github/workflows/validate.yml
-name: Validate Knowledge
-on:
-  pull_request:
-    paths: ["knowledge/**.md"]
-  push:
-    branches: [main]
-    paths: ["knowledge/**.md"]
-jobs:
-  lint:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Check frontmatter exists
-        run: |
-          set -e
-          for f in $(git ls-files 'knowledge/**/*.md'); do
-            echo "Checking $f"
-            awk 'NR==1{exit !/---/}' "$f"
-          done
-      - name: Word count check (<= 300 words)
-        run: |
-          for f in $(git ls-files 'knowledge/**/*.md'); do
-            wc=$(sed -n '/^---$/,/^---$/!p' "$f" | wc -w | tr -d ' ')
-            echo "$f: $wc words"
-          done
+---
+
+## ✍️ Writing Guidelines
+
+- ≤300 words, plain language, use bullet points
+- No legal advice or opinions; cite public sources if helpful
+- One article per topic per country
+
+---
+
+## 📁 Structure
+
+
+/knowledge/{country-cc}/{slug}.md
+
+Each file must include frontmatter:
+
+```yaml
+---
+title: "GDPR Basics for SMEs"
+country: "IE"
+category: "GDPR"
+tags: ["gdpr","records"]
+last_updated: "2025-10-24"
+id: "article.ie.gdpr.basics"
+---
+📤 Submissions
+We do not accept forks or pull requests.
+Submit articles via email or the contribution form.
+Follow the structure and guidelines above.
+
+
