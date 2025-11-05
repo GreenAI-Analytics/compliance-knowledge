@@ -10,11 +10,23 @@ docs_dir: knowledge
 theme:
   name: material
   palette:
-    scheme: default
-    primary: blue
-    accent: indigo
-  logo: assets/logo.png
-  favicon: assets/favicon.ico
+    - scheme: default
+      primary: green
+      accent: green
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: green
+      accent: green
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+
 
 plugins:
   - search
