@@ -1,5 +1,10 @@
-# Germany Compliance Overview
+﻿# DE Compliance Articles
 
-This section will contain compliance documentation for **Germany**.
+Country-specific compliance explainers for DE.
 
-> 📌 Placeholder content. Documentation coming soon.
+## Articles
+
+- [GDPR Basics for SMEs in Germany](gdpr_basics.md)
+
+_Last rebuilt: 2026-04-03_
+

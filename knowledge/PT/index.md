@@ -1,5 +1,8 @@
-# Portugal Compliance Overview
+﻿# PT Compliance Articles
 
-This section will contain compliance documentation for **Portugal**.
+Country-specific compliance explainers for PT.
 
-> 📌 Placeholder content. Documentation coming soon.
+No country-specific articles are published yet.
+
+_Last rebuilt: 2026-04-03_
+

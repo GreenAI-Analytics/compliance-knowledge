@@ -1,5 +1,8 @@
-# Belgium Compliance Overview
+﻿# BE Compliance Articles
 
-This section will contain compliance documentation for **Belgium**.
+Country-specific compliance explainers for BE.
 
-> 📌 Placeholder content. Documentation coming soon.
+No country-specific articles are published yet.
+
+_Last rebuilt: 2026-04-03_
+

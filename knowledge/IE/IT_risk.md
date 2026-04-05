@@ -3,8 +3,8 @@ title: "Cybersecurity and IT Risk Management"
 country: "IE"
 category: "IT & Digital"
 tags: ["cybersecurity", "data protection", "risk", "it", "compliance"]
-last_updated: "2025-10-29"
-id: "article.ie.digital.cybersecurity.basics"
+last_updated: "2026-04-03"
+id: "article.ie.digital.it_risk.management"
 ---
 
 Cybersecurity is essential for protecting personal data, business continuity, and regulatory compliance. Irish businesses must take reasonable steps to prevent breaches and respond effectively.

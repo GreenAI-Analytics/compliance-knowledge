@@ -3,8 +3,8 @@ title: "Remote Work Policies and Compliance"
 country: "IE"
 category: "HR"
 tags: ["remote work", "flexible work", "hr", "policies", "compliance"]
-last_updated: "2025-10-29"
-id: "article.ie.hr.remote.work.basics"
+last_updated: "2026-04-03"
+id: "article.ie.hr.remote.work.policy"
 ---
 
 Remote work arrangements must comply with employment law, data protection, health and safety, and contractual obligations. Clear policies help manage expectations and reduce risk.

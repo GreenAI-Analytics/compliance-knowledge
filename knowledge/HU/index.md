@@ -1,5 +1,8 @@
-# Hungary Compliance Overview
+﻿# HU Compliance Articles
 
-This section will contain compliance documentation for **Hungary**.
+Country-specific compliance explainers for HU.
 
-> 📌 Placeholder content. Documentation coming soon.
+No country-specific articles are published yet.
+
+_Last rebuilt: 2026-04-03_
+

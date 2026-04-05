@@ -1,5 +1,8 @@
-# Spain Compliance Overview
+﻿# ES Compliance Articles
 
-This section will contain compliance documentation for **Spain**.
+Country-specific compliance explainers for ES.
 
-> 📌 Placeholder content. Documentation coming soon.
+No country-specific articles are published yet.
+
+_Last rebuilt: 2026-04-03_
+

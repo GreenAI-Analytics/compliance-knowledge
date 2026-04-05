@@ -3,8 +3,8 @@ title: "Workplace Accessibility and Reasonable Accommodations"
 country: "IE"
 category: "Equality & Inclusion"
 tags: ["accessibility", "disability", "reasonable accommodations", "inclusion", "hr"]
-last_updated: "2025-10-29"
-id: "article.ie.equality.accessibility.basics"
+last_updated: "2026-04-03"
+id: "article.ie.hr.workplace.accessibility"
 ---
 
 Employers must ensure equal access and inclusion for people with disabilities under the Employment Equality Acts and the UN Convention on the Rights of Persons with Disabilities.

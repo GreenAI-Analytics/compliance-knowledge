@@ -1,5 +1,8 @@
-# Greece Compliance Overview
+﻿# GR Compliance Articles
 
-This section will contain compliance documentation for **Greece**.
+Country-specific compliance explainers for GR.
 
-> 📌 Placeholder content. Documentation coming soon.
+No country-specific articles are published yet.
+
+_Last rebuilt: 2026-04-03_
+

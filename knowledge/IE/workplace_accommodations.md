@@ -1,9 +1,9 @@
 ---
-title: "Workplace Accessibility and Reasonable Accommodations"
+title: "Workplace Accommodations and Inclusive Practice"
 country: "IE"
 category: "HR"
 tags: ["accessibility", "reasonable accommodation", "equality", "disability", "compliance"]
-last_updated: "2025-10-29"
+last_updated: "2026-04-03"
 id: "article.ie.hr.accessibility.accommodations"
 ---
 

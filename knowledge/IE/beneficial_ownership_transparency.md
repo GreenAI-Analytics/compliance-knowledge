@@ -3,8 +3,8 @@ title: "Beneficial Ownership and Transparency"
 country: "IE"
 category: "Corporate Governance"
 tags: ["beneficial ownership", "transparency", "rbo", "aml", "company law"]
-last_updated: "2025-10-29"
-id: "article.ie.corp.beneficial.ownership"
+last_updated: "2026-04-03"
+id: "article.ie.corp.beneficial.transparency"
 ---
 
 Irish companies must disclose their beneficial owners — the individuals who ultimately own or control the business. This supports anti-money laundering and corporate transparency.

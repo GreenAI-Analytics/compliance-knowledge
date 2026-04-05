@@ -3,8 +3,8 @@ title: "Procurement and Tendering Compliance"
 country: "IE"
 category: "Corporate Governance"
 tags: ["procurement", "tendering", "public contracts", "transparency", "compliance"]
-last_updated: "2025-10-29"
-id: "article.ie.corp.procurement.basics"
+last_updated: "2026-04-03"
+id: "article.ie.corp.procurement.tendering"
 ---
 
 Procurement rules ensure fair, transparent, and cost-effective purchasing — especially for public sector contracts. Businesses bidding for tenders must follow strict procedures and eligibility criteria.

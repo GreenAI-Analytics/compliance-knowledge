@@ -1,71 +1,30 @@
-# compliance-knowledge
+﻿# compliance-knowledge
 
-Short, plain-language explainers (≤300 words) by **country**.  
-Rendered in-app and on [Read the Docs](https://compliance-knowledge.readthedocs.io)
+Short, plain-language compliance explainers by country.
+Rendered in-app and on Read the Docs.
 
----
+## Writing Guidelines
 
-## ✍️ Writing Guidelines
+- Keep articles clear and practical.
+- Target short explainers (about 300 words).
+- Use neutral, non-advisory language.
+- Add frontmatter with title, country, category, tags, last_updated, and id.
 
-- ≤300 words, plain language, use bullet points
-- No legal advice or opinions; cite public sources if helpful
-- One article per topic per country
+## Structure
 
----
+- Country articles: /knowledge/{CC}/{slug}.md
+- Country index: /knowledge/{CC}/index.md
+- Global index: /knowledge/index.md
 
-## 📁 Structure
-		/knowledge/{country-cc}/{slug}.md
-
-Each file must include frontmatter:
-
-```yaml
----
-title: "GDPR Basics for SMEs"
-country: "IE"
-category: "GDPR"
-tags: ["gdpr","records"]
-last_updated: "2025-10-24"
-id: "article.ie.gdpr.basics"
----
-
-🌐 Localization
-Here’s a minimal and focused version of your README.md that keeps only the essential information contributors need:
-
-✅ Minimal README.md
-# compliance-knowledge
-
-Short, plain-language explainers (≤300 words) by **country**.  
-Rendered in-app and on [Read the Docs](https://compliance-knowledge.readthedocs.io)
-
----
-
-## ✍️ Writing Guidelines
-
-- ≤300 words, plain language, use bullet points
-- No legal advice or opinions; cite public sources if helpful
-- One article per topic per country
-
----
-
-## 📁 Structure
-
-
-/knowledge/{country-cc}/{slug}.md
-
-Each file must include frontmatter:
+## Frontmatter Template
 
 ```yaml
 ---
 title: "GDPR Basics for SMEs"
 country: "IE"
 category: "GDPR"
-tags: ["gdpr","records"]
-last_updated: "2025-10-24"
+tags: ["gdpr", "records"]
+last_updated: "2026-04-03"
 id: "article.ie.gdpr.basics"
 ---
-📤 Submissions
-We do not accept forks or pull requests.
-Submit articles via email or the contribution form.
-Follow the structure and guidelines above.
-
-
+```

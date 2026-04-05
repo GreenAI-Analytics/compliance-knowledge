@@ -1,5 +1,8 @@
-# France Compliance Overview
+﻿# FR Compliance Articles
 
-This section will contain compliance documentation for **France**.
+Country-specific compliance explainers for FR.
 
-> 📌 Placeholder content. Documentation coming soon.
+No country-specific articles are published yet.
+
+_Last rebuilt: 2026-04-03_
+

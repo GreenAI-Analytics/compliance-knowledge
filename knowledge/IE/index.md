@@ -1,40 +1,35 @@
-﻿# 🇮🇪 Ireland Compliance Articles
+﻿# IE Compliance Articles
 
-Welcome to the Ireland section of the Compliance Knowledge Portal.  
-Below is a curated list of short, plain-language explainers covering key compliance topics relevant to Ireland-based organizations.
+Country-specific compliance explainers for IE.
 
----
-
-## 📋 Articles
+## Articles
 
 - [Accessibility Compliance Basics](accessibility_compliance.md)
 - [Advertising and Marketing Compliance](advertising_compliance.md)
 - [Marketing Compliance and Advertising Rules](advertising_rules.md)
 - [AML Compliance Basics](aml_compliance.md)
 - [Anti-Bribery and Corruption Rules](antibribery_corruption.md)
-- [Beneficial Ownership Rules and RBO Filings](beneficialowner_rbofiling.md)
 - [Beneficial Ownership and Transparency](beneficial_ownership_transparency.md)
+- [Beneficial Ownership Rules and RBO Filings](beneficialowner_rbofiling.md)
 - [Board Governance and Director Duties](boardgovernance_director_duties.md)
 - [Board Composition and Governance Balance](boardgovernance_governancebalance.md)
 - [Business Insurance Requirements](business_insurance.md)
 - [Company Formation and Legal Structures](company_formation.md)
-- [Company Registration and CRO Compliance](cro_compliance.md)
 - [Consumer Protection Obligations](consumer_protection.md)
 - [Consumer Rights and Refunds](consumer_rights.md)
-- [Consumer Rights and Refund Rules](refund_rules.md)
 - [Contract Law and Commercial Agreements](contract_commercial_agreement.md)
 - [Contract Management and Legal Documentation](contract_legal_doc.md)
 - [Corporate Governance Essentials](corporate_governance.md)
 - [Corporate Restructuring and Strike-Off](corporate_restructure.md)
+- [Company Registration and CRO Compliance](cro_compliance.md)
 - [Cross-Border Compliance and EU Obligations](crossborder_euobligation.md)
 - [Cybersecurity Compliance Basics](cybersecurity_basic.md)
-- [Cybersecurity Basics and Data Breach Response](data_breach_response.md)
-- [Cybersecurity and IT Risk Management](it_risk.md)
 - [Data Retention and Archiving](data_archiving.md)
+- [Cybersecurity Basics and Data Breach Response](data_breach_response.md)
 - [Data Retention and Recordkeeping Rules](data_recordkeeping.md)
 - [Implementation Checklist: Data Retention and Recordkeeping Rules](dataretention_recordkeeping.md)
-- [Digital Services Compliance](digitalservice_compliance.md)
 - [Digital Accessibility and Inclusive Design](digital_accessibility.md)
+- [Digital Services Compliance](digitalservice_compliance.md)
 - [Director Duties and Fiduciary Responsibilities](director_fiduciary.md)
 - [Director Registration and CRO Filings](director_registration_CRO.md)
 - [Employee Onboarding and Induction](employee_onboarding.md)
@@ -47,8 +42,8 @@ Below is a curated list of short, plain-language explainers covering key complia
 - [ESG Reporting and Sustainability Disclosures](esg_disclosure.md)
 - [ESG and Sustainability Reporting](esg_reporting.md)
 - [ESG Reporting Basics](esg_reporting_basics.md)
-- [Financial Reporting and Accounting Obligations](financialreporting_accountingobligation.md)
 - [Financial Reporting Compliance](financial_reporting.md)
+- [Financial Reporting and Accounting Obligations](financialreporting_accountingobligation.md)
 - [Fundraising and Charitable Compliance](fundraising_compliance.md)
 - [GDPR Basics for SMEs in Ireland](gdpr_basic.md)
 - [Health and Safety Compliance](health_safety.md)
@@ -57,23 +52,30 @@ Below is a curated list of short, plain-language explainers covering key complia
 - [Internal Audits and Controls](internal_audit_control.md)
 - [Intellectual Property Compliance](ip_compliance.md)
 - [Intellectual Property Protection](ip_protection.md)
+- [Cybersecurity and IT Risk Management](it_risk.md)
 - [Marketing and Advertising Compliance](marketing_compliance.md)
 - [Payroll Overview for SMEs](payroll_overview.md)
 - [Pension Setup and Auto-Enrolment](pension_setup.md)
 - [Procurement and Supplier Due Diligence](procurement_supplier_diligence.md)
 - [Procurement and Tendering Compliance](procurement_tender_compliance.md)
-- [Remote Work Compliance](remotework_compliance.md)
+- [Consumer Rights and Refund Rules](refund_rules.md)
 - [Remote Work Policies and Compliance](remote_work_policy.md)
-- [Sector-Specific Licensing and Regulatory Approvals](sectorspecific_regulatoryapproval.md)
+- [Remote Work Compliance](remotework_compliance.md)
 - [Sector-Specific Licensing and Permits](sector_specific_licensing.md)
+- [Sector-Specific Licensing and Regulatory Approvals](sectorspecific_regulatoryapproval.md)
 - [Data Subject Rights and Access Requests](subject_rights_access.md)
-- [Tax Compliance and Revenue Obligations](taxcompliance_revenueobligation.md)
+- [Tax Filing Checklist for Small Companies](tax_filing_checklist.md)
 - [Tax Registration and Filing Obligations](tax_registration.md)
+- [Tax Compliance and Revenue Obligations](taxcompliance_revenueobligation.md)
 - [VAT Compliance Basics](vat_compliance.md)
 - [Whistleblowing and Protected Disclosures](whistleblowing_disclosure.md)
 - [Whistleblowing Obligations and Protections](whistleblowing_obligations.md)
 - [Workplace Accessibility and Reasonable Accommodations](workplace_accessibility.md)
+- [Workplace Accommodations and Inclusive Practice](workplace_accommodations.md)
 - [Workplace Investigations and Disciplinary Procedures](workplace_investigation.md)
 - [Workplace Pensions and PRSA Obligations](workplace_pensions_PRSA.md)
 - [Workplace Safety Compliance](workplace_safety.md)
 - [Workplace Wellbeing and Mental Health](workplace_wellbeing.md)
+
+_Last rebuilt: 2026-04-03_
+
